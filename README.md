@@ -4,7 +4,7 @@ J'ai été [dessinateur de billets de banque](https://surys.com), de passeport, 
 
 # Où vais-je ? 
 
-Pour le moment, Paris. J'apprécie me prendre les pieds dans les guiboles des touristes se mettant à genoux pour demander la main à leur chère et tendre, et, de temps à autre, rendre visite à cette jeune femme qui se moque des badauds venant la prendre en photo. Que voulez-vous, il faut de la pluie pour contanter les Britanniques et des emmerdes pour ravir les amateurs de gastéropode.  
+Pour le moment, Paris. J'apprécie me prendre les pieds dans les guiboles des touristes se mettant à genoux pour demander la main à leur chère et tendre, et, de temps à autre, rendre visite à cette jeune femme qui se moque des badauds venant la prendre en photo. Que voulez-vous, il faut de la pluie pour contenter les Britanniques et des emmerdes pour ravir les amateurs de gastéropode.  
 
 # Où cours-je ?
 
