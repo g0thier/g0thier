@@ -8,7 +8,7 @@ Pour le moment, Paris. J'apprécie me prendre les pieds dans les guiboles des to
 
 # Où cours-je ?
 
-Vous pouviez jusqu'à présent me croiser dans la cour devant le bootcamp Jedha où avait cours des cours de machine learning. Sur le court terme j'accepterai un humble travail de data scientist, mais je tiens à vous prévenir pour ne pas vous prendre de court, que comme tout un chacun, sur le long terme je cours après le succès, la gloire et la réussite. 
+Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha où avait cours des cours de machine learning. Sur le court terme j'accepterai un humble travail de data scientist, mais je tiens à vous prévenir pour ne pas vous prendre de court, que comme tout un chacun, sur le long terme je cours après le succès, la gloire et la réussite. 
 
 # Dans quel état j'erre ? 
 
