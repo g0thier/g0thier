@@ -16,9 +16,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 # ⚠️ Code suivant en cours d'écriture. 
 ```
 
-Maitrise du pipeline data :
 COLLECTE :
- - SQL / Gestion de BDD : Google Cloud Platform, AWS, MySQL, ETL
  - Web Scraping
  - Problématiques Big data : calcul de stockage, S3, Spark
 
@@ -46,35 +44,70 @@ DATA LEAD
 
 
 ### 📊 EDA :
+<a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+</a>
+<a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" alt="Numpy" />
+</a>
+<a href="https://github.com/g0thier/Bloc-5/blob/main/02_EDA_pricing.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
+</a>
+<a href="https://github.com/g0thier/Cours_Data/blob/main/Plots.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Matplotlib-yellow" alt="Matplotlib" />
+</a>
+<a href="https://github.com/g0thier/Cours_Data/blob/main/Plots.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Seaborn-blue" alt="Seaborn" />
+</a>
+<div></br></div>
 
-### 📃 Scraping :
+### 📃 Web Scraping :
+<a href="https://github.com/g0thier/iTunes-Store-Scrapy/blob/main/Script05.py" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Scrapy-brightgreen" alt="Scrapy" />
+</a>
+<a href="https://github.com/g0thier/Bloc-5/blob/main/06_Test_API.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Requests-black" alt="Requests" />
+</a>
+<a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Geopy-blue" alt="Geopy" />
+</a>
+<div></br></div>
 
 ### 🔮 Machine Learning & clustering : 
+<a href="https://github.com/g0thier/Bloc-3" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+</a>
+<div></br></div>
 
 ### 🪄 Deep Learning : 
-
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </a>
+<a href="https://medium.com/@g0thier/apprendre-à-compter-les-cartes-sans-se-faire-virer-du-casino-252535e45c3b" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" />
+</a>
+<div></br></div>
 
 ### 🚀 Deyployment : 
 <a href="https://github.com/g0thier/Bloc-5/tree/main/04_Application" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </a>
-<a href="https://github.com/g0thier/Bloc-5/tree/main/04_Application" target="_blank">
+<a href="https://getaroundapi-rg.herokuapp.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
 </a>
 <a href="https://github.com/g0thier/Bloc-5/blob/main/05_API/app/main.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
 </a>
-
-![Airflow](https://img.shields.io/badge/no%20proof-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
-
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/no%20proof-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+</a>
+<div></br></div>
 
 # Comment se fait-ce ?
 
 ### 😛 languages :
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=SQL)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
@@ -93,6 +126,29 @@ DATA LEAD
 <a href="https://github.com/g0thier/Projet-Essentials/blob/main/Projet%20Michelin%20Guide%20Restaurants%202021%20copie.pdf" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau" />
 </a>
+<div></br></div>
+
+# Certification Jedha : 
+
+<a href="https://github.com/g0thier/Bloc-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-1&title_color=586e75&text_color=586e75&icon_color=008000" />
+</a>
+<a href="https://github.com/g0thier/Bloc-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-2&title_color=586e75&text_color=586e75&icon_color=008000" />
+</a>
+<a href="https://github.com/g0thier/Bloc-3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-3&title_color=586e75&text_color=586e75&icon_color=008000" />
+</a>
+<a href="https://github.com/g0thier/Bloc-4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-4&title_color=586e75&text_color=586e75&icon_color=008000" />
+</a>
+<a href="https://github.com/g0thier/Bloc-5">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-5&title_color=586e75&text_color=586e75&icon_color=008000" />
+</a>
+<a href="https://github.com/g0thier/Bloc-6">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-6&title_color=586e75&text_color=586e75&icon_color=008000" />
+</a>
+<div></br></div>
 
 # Contact : 
 
@@ -114,3 +170,4 @@ DATA LEAD
 <a href="mailto:Gauthier#1774" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
+<div></br></div>
