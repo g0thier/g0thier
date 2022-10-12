@@ -19,8 +19,8 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 ## _
 
 ```python
-# 🚀 Cliquez sur les badges, chacun renvoie à un projet ayant nécessité tel ou tel framework.
-# 🚧 Les badges incluant ce signe ne renvoient à aucun projet présenté sur Git Hub. 
+# 🚀 Cliquez sur les badges, chacun renvoie à un projet ayant nécessité la library en question.
+# 🚧 Les badges incluant cet émoji ne renvoient à aucun projet présenté sur Git Hub. 
 ```
 
 ### 📊 EDA :
