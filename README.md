@@ -16,39 +16,15 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 # ⚠️ Code suivant en cours d'écriture. 
 ```
 
-COLLECTE :
- - Web Scraping
- - Problématiques Big data : calcul de stockage, S3, Spark
-
-ANALYSE et TRAITEMENT:
- - Data visualisation et Data mining
- - A/B Test Python, Marketing 
- - Exploration data analysis
-
-CRÉATION DE MODÈLE :
- - Jupyter Notebook
- - Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn, Plotly, GeoData, Keras, TensorFlow, spaCy...
- - Machine Learning : Régressions linéaire et logistiques, Random Forest.
- - ML non supervisé : KMeans, DBScan, LSA et Nearest Neighbor, PCA et LDA.
- - Deep learning : CNN, GRU et LSTM, NLP, GAN. 
-
-DÉPLOIMENT :
- - Docker, Dash, MLflow, Amazon SageMaker, Flask, Kubernetes
-
-DATA LEAD
- - Scala : Scala, Spark, calcul distribué
- - Spark : python, Hadoop 
- - ETL : RDS, S3, Redshift, Athena, DynamoDB, Data Lake to Data Warehouse, Airflow
- - DevOps : bash scripting, Gitlab, CI-CD, Docker, Kubernetes
-
-
-
 ### 📊 EDA :
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
 </a>
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" alt="Numpy" />
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/no%20proof-Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
 </a>
 <a href="https://github.com/g0thier/Bloc-5/blob/main/02_EDA_pricing.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
@@ -86,14 +62,16 @@ DATA LEAD
 <a href="https://medium.com/@g0thier/apprendre-à-compter-les-cartes-sans-se-faire-virer-du-casino-252535e45c3b" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" />
 </a>
+<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
+</a>
+
+
 <div></br></div>
 
 ### 🚀 Deyployment : 
 <a href="https://github.com/g0thier/Bloc-5/tree/main/04_Application" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
-</a>
-<a href="https://getaroundapi-rg.herokuapp.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
 </a>
 <a href="https://github.com/g0thier/Bloc-5/blob/main/05_API/app/main.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
@@ -101,11 +79,24 @@ DATA LEAD
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/no%20proof-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
 </a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="StreamLit">
+</a>
+
 <div></br></div>
 
 # Comment se fait-ce ?
 
-### 😛 languages :
+### 😛 language :
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=SQL)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
@@ -117,14 +108,27 @@ DATA LEAD
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### Saas :
+<a href="https://github.com/g0thier/Bloc-1/blob/main/01_cities_weather_infos.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Jupiter-F37626" alt="Jupiter Notebook" />
+</a>
+<a href="https://getaroundapi-rg.herokuapp.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
+</a>
+<div></br></div>
 
 ### ETL :
 ![DataBricks](https://img.shields.io/badge/no%20proof-Databricks-FF3621?style=flat&logo=Databricks&logoColor=white) 
 ![Spark](https://img.shields.io/badge/no%20proof-Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)
 
-### Software :
+### Outils :
 <a href="https://github.com/g0thier/Projet-Essentials/blob/main/Projet%20Michelin%20Guide%20Restaurants%202021%20copie.pdf" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau" />
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/pip-3775A9?style=flat&logo=pypi&logoColor=white" alt="PIP" />
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
 </a>
 <div></br></div>
 
@@ -171,3 +175,4 @@ DATA LEAD
   <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <div></br></div>
+
