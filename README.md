@@ -186,26 +186,26 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/Projet-Essentials/blob/main/Projet%20Michelin%20Guide%20Restaurants%202021%20copie.pdf" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau" />
 </a>
-<a href="" target="_blank">
+<a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/Dockerfile" target="_blank">
   <img align="center" src="https://img.shields.io/badge/pip-3775A9?style=flat&logo=pypi&logoColor=white" alt="PIP" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img align="center" src="https://img.shields.io/badge/🚧-GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-minikube-blue" alt="Minikube" />
+  <img align="center" src="https://img.shields.io/badge/🚧-minikube-blue" alt="Minikube" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-plural-826ee6" alt="plural.sh" />
+  <img align="center" src="https://img.shields.io/badge/🚧-plural-826ee6" alt="plural.sh" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Confluent-040730" alt="Confluent">
+  <img align="center" src="https://img.shields.io/badge/🚧-Confluent-040730" alt="Confluent">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=fff&style=flat" alt="Zapier Badge" />
+  <img align="center" src="https://img.shields.io/badge/🚧-Zapier-FF4A00?logo=zapier&logoColor=fff&style=flat" alt="Zapier Badge" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=fff&style=flat" alt="Neo4j Badge" />
+  <img align="center" src="https://img.shields.io/badge/🚧-Neo4j-4581C3?logo=neo4j&logoColor=fff&style=flat" alt="Neo4j Badge" />
 </a>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Airbyte-615EFF?logo=airbyte&logoColor=fff&style=flat" alt="Airbyte Badge">
