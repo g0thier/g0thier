@@ -20,7 +20,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 
 ```python
 # 🚀 Cliquez sur les badges, chacun renvoie à un projet ayant nécessité la library en question.
-# 🚧 Les badges incluant cet émoji ne renvoient à aucun projet présenté sur Git Hub. 
+# 🚧 Les badges incluant cet émoji n'ont pas d'exemple de code présenté sur mon Git Hub. 
 ```
 
 ### 📊 EDA :
@@ -58,12 +58,12 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
   <img align="center" src="https://img.shields.io/badge/-boto3-orange" alt="Boto3" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-sqlalchemy-blueviolet" alt="SQLalchemy" />
+  <img align="center" src="https://img.shields.io/badge/🚧-sqlalchemy-blueviolet" alt="SQLalchemy" />
 </a>
 <div></br></div>
 
 ### 🔮 Modele : 
-<a href="https://github.com/g0thier/Bloc-3" target="_blank">
+<a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </a>
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
@@ -79,64 +79,87 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
   <img align="center" src="https://img.shields.io/badge/🚧-fbprophet-%233c5a96" alt="fbprophet">
 </a>
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-TensorFlow%20Hub-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow_hub" />
+  <img align="center" src="https://img.shields.io/badge/🚧-TensorFlow_Hub-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow_hub" />
 </a>
-<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openaigym&logoColor=fff&style=flat" alt="OpenAI Gym Badge">
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-OpenAI_Gym-0081A5?logo=openaigym&logoColor=fff&style=flat" alt="OpenAI Gym Badge">
 </a>
 <div></br></div>
 
 ### 🚀 Deployment : 
-<a href="https://github.com/g0thier/Bloc-5/tree/main/04_Application" target="_blank">
+<a href="https://github.com/g0thier/Bloc-5/blob/main/04_Application/PushMe.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </a>
 <a href="https://github.com/g0thier/Bloc-5/blob/main/05_API/app/main.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
+  <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
+  <img align="center" src="https://img.shields.io/badge/🚧-MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
+  <img align="center" src="https://img.shields.io/badge/🚧-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
+  <img align="center" src="https://img.shields.io/badge/🚧-Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
 </a>
-<a href="" target="_blank">
+<a href="https://moviescorepredict-rg.herokuapp.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="StreamLit">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Airbyte-615EFF?logo=airbyte&logoColor=fff&style=flat" alt="Airbyte Badge">
+  <img align="center" src="https://img.shields.io/badge/🚧-Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
 </a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
-</a>
-<a href="" target="_blank">
+<a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/app.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Joblib-orange" alt="Joblib">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Kafka">
+  <img align="center" src="https://img.shields.io/badge/🚧-Apache_Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Kafka">
 </a>
 <div></br></div>
 
 # Comment se fait-ce ?
 
 ### 😛 language :
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=SQL)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
+
+<a href="https://github.com/g0thier/Bloc-2/blob/main/05_Graph_followup_time_2.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-SQL-black?style=flat&logo=SQL" alt="SQL">
+</a>
+<a href="https://apps.apple.com/lu/developer/gauthier-rammault/id1493203805" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift">
+</a>
+<a href="https://lafleche.app/ADN/index.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" alt="HTML">
+</a>
+<a href="https://lafleche.app" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" alt="CSS">
+</a>
+<a href="https://github.com/g0thier/Bloc-5/blob/main/05_API/app/main.py" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</a>
+<a href="https://github.com/g0thier/g0thier/blob/main/README.md" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat" alt="Markdown Badge">
+</a>
+<div></br></div>
+
+
 
 ### ☁️ Cloud :
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-123F6D?style=flat&logo=OVH&logoColor=white)
+
+<a href="https://github.com/g0thier/Bloc-1/blob/main/10_pull_s3.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
+</a>
+<a href="https://lafleche.app" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/ovh-123F6D?style=flat&logo=OVH&logoColor=white" alt="OVH">
+</a>
+<div></br></div>
 
 ### 📦 Module :
 <a href="https://github.com/g0thier/Bloc-1/blob/main/01_cities_weather_infos.ipynb" target="_blank">
@@ -183,6 +206,9 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 </a>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=fff&style=flat" alt="Neo4j Badge" />
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Airbyte-615EFF?logo=airbyte&logoColor=fff&style=flat" alt="Airbyte Badge">
 </a>
 <div></br></div>
 
