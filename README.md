@@ -12,8 +12,15 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 
 # Dans quel état j'erre ? 
 
+## _
+## _
+## 🚧 La suite de ce Markdown est en construction 🚧
+## _
+## _
+
 ```python
-# ⚠️ Code suivant en cours d'écriture. 
+# 🚀 Cliquez sur les badges, chacun renvoie à un projet ayant nécessité tel ou tel framework.
+# 🚧 Les badges incluant ce signe ne renvoient à aucun projet présenté sur Git Hub. 
 ```
 
 ### 📊 EDA :
@@ -24,7 +31,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
   <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" alt="Numpy" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/no%20proof-Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
+  <img align="center" src="https://img.shields.io/badge/🚧-Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
 </a>
 <a href="https://github.com/g0thier/Bloc-5/blob/main/02_EDA_pricing.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
@@ -49,13 +56,10 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 </a>
 <div></br></div>
 
-### 🔮 Machine Learning & clustering : 
+### 🔮 Modele : 
 <a href="https://github.com/g0thier/Bloc-3" target="_blank">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </a>
-<div></br></div>
-
-### 🪄 Deep Learning : 
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </a>
@@ -69,7 +73,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 
 <div></br></div>
 
-### 🚀 Deyployment : 
+### 🚀 Deployment : 
 <a href="https://github.com/g0thier/Bloc-5/tree/main/04_Application" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </a>
@@ -77,7 +81,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
   <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/no%20proof-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+  <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
 </a>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
@@ -91,6 +95,9 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="StreamLit">
 </a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Airbyte-615EFF?logo=airbyte&logoColor=fff&style=flat" alt="Airbyte Badge">
+</a>
 
 <div></br></div>
 
@@ -103,22 +110,31 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
+
 ### Cloud :
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![OVH](https://img.shields.io/badge/ovh-123F6D?style=flat&logo=OVH&logoColor=white)
 
-### Saas :
+### Module :
 <a href="https://github.com/g0thier/Bloc-1/blob/main/01_cities_weather_infos.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jupiter-F37626" alt="Jupiter Notebook" />
 </a>
 <a href="https://getaroundapi-rg.herokuapp.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
 </a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-PrestaShop-DF0067?logo=prestashop&logoColor=fff&style=flat" alt="PrestaShop Badge">
+</a>
 <div></br></div>
 
 ### ETL :
-![DataBricks](https://img.shields.io/badge/no%20proof-Databricks-FF3621?style=flat&logo=Databricks&logoColor=white) 
-![Spark](https://img.shields.io/badge/no%20proof-Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)
+![DataBricks](https://img.shields.io/badge/🚧-Databricks-FF3621?style=flat&logo=Databricks&logoColor=white) 
+![Spark](https://img.shields.io/badge/🚧-Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)
 
 ### Outils :
 <a href="https://github.com/g0thier/Projet-Essentials/blob/main/Projet%20Michelin%20Guide%20Restaurants%202021%20copie.pdf" target="_blank">
