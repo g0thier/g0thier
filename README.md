@@ -10,13 +10,7 @@ Pour le moment, Paris. J'apprécie me prendre les pieds dans les guiboles des to
 
 Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha où avait cours des cours de machine learning. Sur le court terme j'accepterai un humble travail de data scientist, mais je tiens à vous prévenir pour ne pas vous prendre de court, que comme tout un chacun, sur le long terme je cours après le succès, la gloire et la réussite. 
 
-# Dans quel état j'erre ? 
-
-## _
-## _
-## 🚧 La suite de ce Markdown est en construction 🚧
-## _
-## _
+# Dans quel état j'erre ?
 
 ```python
 # 🚀 Cliquez sur les badges, chacun renvoie à un projet ayant nécessité la library en question.
@@ -30,9 +24,6 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" alt="Numpy" />
 </a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
-</a>
 <a href="https://github.com/g0thier/Bloc-5/blob/main/02_EDA_pricing.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
 </a>
@@ -41,6 +32,10 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 </a>
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Plots.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Seaborn-blue" alt="Seaborn" />
+</a>
+</br>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
 </a>
 <div></br></div>
 
@@ -57,6 +52,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/Bloc-1/blob/main/09_push_s3.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-boto3-orange" alt="Boto3" />
 </a>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-sqlalchemy-blueviolet" alt="SQLalchemy" />
 </a>
@@ -75,6 +71,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
 </a>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-fbprophet-%233c5a96" alt="fbprophet">
 </a>
@@ -93,6 +90,13 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/Bloc-5/blob/main/05_API/app/main.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
 </a>
+<a href="https://moviescorepredict-rg.herokuapp.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="StreamLit">
+</a>
+<a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/app.py" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Joblib-orange" alt="Joblib">
+</a>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
 </a>
@@ -105,14 +109,8 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
 </a>
-<a href="https://moviescorepredict-rg.herokuapp.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="StreamLit">
-</a>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
-</a>
-<a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/app.py" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Joblib-orange" alt="Joblib">
 </a>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Apache_Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Kafka">
@@ -125,9 +123,6 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 
 <a href="https://github.com/g0thier/Bloc-2/blob/main/05_Graph_followup_time_2.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python">
-</a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-SQL-black?style=flat&logo=SQL" alt="SQL">
 </a>
 <a href="https://apps.apple.com/lu/developer/gauthier-rammault/id1493203805" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift">
@@ -144,6 +139,10 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/g0thier/blob/main/README.md" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat" alt="Markdown Badge">
 </a>
+</br>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-SQL-black?style=flat&logo=SQL" alt="SQL">
+</a>
 <div></br></div>
 
 
@@ -153,11 +152,12 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/Bloc-1/blob/main/10_pull_s3.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
 </a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-</a>
 <a href="https://lafleche.app" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ovh-123F6D?style=flat&logo=OVH&logoColor=white" alt="OVH">
+</a>
+</br>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
 </a>
 <div></br></div>
 
@@ -168,6 +168,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://getaroundapi-rg.herokuapp.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
 </a>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
 </a>
@@ -189,6 +190,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 <a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/Dockerfile" target="_blank">
   <img align="center" src="https://img.shields.io/badge/pip-3775A9?style=flat&logo=pypi&logoColor=white" alt="PIP" />
 </a>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
 </a>
