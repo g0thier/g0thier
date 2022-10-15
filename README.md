@@ -48,6 +48,7 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
 </a>
+<div></br></div>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-fbprophet-%233c5a96" alt="fbprophet">
 </a>
