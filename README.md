@@ -48,7 +48,7 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
 </a>
-</br></br>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/fbprophet-%233c5a96" alt="fbprophet">
 </a>
@@ -78,7 +78,7 @@ __🚀 Deploiement :__
 <a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/app.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Joblib-orange" alt="Joblib">
 </a>
-</br></br>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
 </a>
