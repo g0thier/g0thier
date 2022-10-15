@@ -48,50 +48,37 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
 </a>
+</br>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-fbprophet-%233c5a96" alt="fbprophet">
+</a>
+<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-TensorFlow_Hub-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow_hub" />
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-OpenAI_Gym-0081A5?logo=openaigym&logoColor=fff&style=flat" alt="OpenAI Gym Badge">
+</a>
 <div></br></div>
 
-__🔮 Machine Learning supervisée :__
-<a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-</a>
+__Deploiement :__
+* Dockerisation de modèle 
+* API (création)
+* Production de Dashboard
+* Microservices 
+* Echange serveur S3 
 
-* Regression Logistique (Classification Catégoriel) 
-* Regression Linéaire (Classification Numérique) 
-* Ridge / Lasso / Grid Search Cross Validation / Random Forest 
-* Adaboost / XGBoost / SMV 
+__Analyse Exploratoire des données (EDA) :__
+* Prise de décision 
+* Optimisation des processus
+* Génération de revenues 
+* Avantage concurrentiel 
 
-__🔮 Machine Learning non-supervisée :__
-<a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-</a>
-
-* Clusterring Kmeans
-* Clusterring DBScan 
-* Natural Language Processing
-
-__🔮 Deep Learning (Tensorflow & Keras) :__
-<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</a>
-<a href="https://medium.com/@g0thier/apprendre-à-compter-les-cartes-sans-se-faire-virer-du-casino-252535e45c3b" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" />
-</a>
-<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
-</a>
-
-* Convolutional Neural Network
-* Transfer Learning 
-* Gans 
-* Word Embedding /Recurrent Neural Networks /Encoder decoder 
-
-
-
-
-
-
-
-
+__Collecte et management de données :__
+* Scraping 
+* Data Storage AWS / GCP 
+* requêtes API 
+* Scraping 
+* BDD (sqlalchemy)
 
 ### 📊 EDA :
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
@@ -134,30 +121,6 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 </a>
 <div></br></div>
 
-### 🔮 Modele : 
-<a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-</a>
-<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</a>
-<a href="https://medium.com/@g0thier/apprendre-à-compter-les-cartes-sans-se-faire-virer-du-casino-252535e45c3b" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" />
-</a>
-<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
-</a>
-</br>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-fbprophet-%233c5a96" alt="fbprophet">
-</a>
-<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-TensorFlow_Hub-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow_hub" />
-</a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-OpenAI_Gym-0081A5?logo=openaigym&logoColor=fff&style=flat" alt="OpenAI Gym Badge">
-</a>
-<div></br></div>
 
 ### 🚀 Deployment : 
 <a href="https://github.com/g0thier/Bloc-5/blob/main/04_Application/PushMe.py" target="_blank">
