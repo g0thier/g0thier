@@ -48,7 +48,6 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
 </a>
-</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-fbprophet-%233c5a96" alt="fbprophet">
 </a>
@@ -60,12 +59,44 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 </a>
 <div></br></div>
 
-__Deploiement :__
+__🚀 Deploiement :__
 * Dockerisation de modèle 
 * API (création)
 * Production de Dashboard
 * Microservices 
-* Echange serveur S3 
+* Echange serveur S3
+<a href="https://github.com/g0thier/Bloc-5/blob/main/04_Application/PushMe.py" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</a>
+<a href="https://github.com/g0thier/Bloc-5/blob/main/05_API/app/main.py" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
+</a>
+<a href="https://moviescorepredict-rg.herokuapp.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="StreamLit">
+</a>
+<a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/app.py" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Joblib-orange" alt="Joblib">
+</a>
+</br>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
+</a>
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/🚧-Apache_Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Kafka">
+</a>
+<div></br></div>
 
 __Analyse Exploratoire des données (EDA) :__
 * Prise de décision 
@@ -118,41 +149,6 @@ __Collecte et management de données :__
 </br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-sqlalchemy-blueviolet" alt="SQLalchemy" />
-</a>
-<div></br></div>
-
-
-### 🚀 Deployment : 
-<a href="https://github.com/g0thier/Bloc-5/blob/main/04_Application/PushMe.py" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
-</a>
-<a href="https://github.com/g0thier/Bloc-5/blob/main/05_API/app/main.py" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
-</a>
-<a href="https://moviescorepredict-rg.herokuapp.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="StreamLit">
-</a>
-<a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/app.py" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Joblib-orange" alt="Joblib">
-</a>
-</br>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
-</a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
-</a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
-</a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
-</a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
-</a>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Apache_Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Kafka">
 </a>
 <div></br></div>
 
