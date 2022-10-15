@@ -21,6 +21,7 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 
 
 __🔮 Machine Learning supervisée :__
+
 <a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </a>
@@ -30,6 +31,10 @@ __🔮 Machine Learning supervisée :__
 * Adaboost / XGBoost / SMV 
 
 __🔮 Machine Learning non-supervisée :__
+
+<a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+</a>
 * Clusterring Kmeans
 * Clusterring DBScan 
 * Natural Language Processing
