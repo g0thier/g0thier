@@ -60,7 +60,7 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 </a>
 <div></br></div>
 
-__🚀 Deploiement :__
+### 🚀 Deploiement :
 * Dockerisation de modèle 
 * API (création)
 * Production de Dashboard
