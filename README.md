@@ -60,7 +60,7 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 </a>
 <div></br></div>
 
-### 🚀 Deploiement :
+__🚀 Deploiement :__
 * Dockerisation de modèle 
 * API (création)
 * Production de Dashboard
@@ -99,20 +99,11 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 </a>
 <div></br></div>
 
-__Analyse Exploratoire des données (EDA) :__
+__📊 Analyse Exploratoire des données (EDA) :__
 * Prise de décision 
 * Optimisation des processus
 * Génération de revenues 
-* Avantage concurrentiel 
-
-__Collecte et management de données :__
-* Scraping 
-* Data Storage AWS / GCP 
-* requêtes API 
-* Scraping 
-* BDD (sqlalchemy)
-
-### 📊 EDA :
+* Avantage concurrentiel
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
 </a>
@@ -128,13 +119,17 @@ __Collecte et management de données :__
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Plots.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Seaborn-blue" alt="Seaborn" />
 </a>
-</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
 </a>
 <div></br></div>
 
-### 📃 Pull from the Web :
+__📃 Collecte et management de données :__
+* Scraping 
+* Data Storage AWS / GCP 
+* requêtes API 
+* Scraping 
+* BDD (sqlalchemy)
 <a href="https://github.com/g0thier/iTunes-Store-Scrapy/blob/main/Script05.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Scrapy-brightgreen" alt="Scrapy" />
 </a>
