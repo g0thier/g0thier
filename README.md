@@ -78,7 +78,7 @@ __🚀 Deploiement :__
 <a href="https://github.com/g0thier/Bloc-6/blob/main/09_application/app.py" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Joblib-orange" alt="Joblib">
 </a>
-</br>
+</br></br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
 </a>
