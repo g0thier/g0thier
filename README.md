@@ -14,8 +14,28 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 
 ```python
 # 🚀 Cliquez sur les badges, chacun renvoie à un projet ayant nécessité la library en question.
-# 🚧 Les badges incluant cet émoji n'ont pas d'exemple de code présenté sur mon Git Hub. 
+# 🚧 Les badges incluant cet émoji n'ont pas d'exemple de code présenté sur mon Git Hub.
 ```
+
+> Ancien Designer holographiste dans l’industrie fiduciaire (master Concepteur en communication visuelle option multimédia), je code depuis de nombreuses années pour réaliser des applications sur l’App-store. En 2022 suite à une formation pour acquérir de nouvelles compétences, je vous propose mes services de Data Scientist avec au programme :
+
+
+__🔮 Machine Learning supervisée :__
+* Regression Logistique (Classification Catégoriel) 
+* Regression Linéaire (Classification Numérique) 
+* Ridge / Lasso / Grid Search Cross Validation / Random Forest 
+* Adaboost / XGBoost / SMV 
+
+__🔮 Machine Learning non-supervisée :__
+* Clusterring Kmeans
+* Clusterring DBScan 
+* Natural Language Processing
+
+__🔮 Deep Learning (Tensorflow & Keras) :__
+* Convolutional Neural Network
+* Transfer Learning 
+* Gans 
+* Word Embedding /Recurrent Neural Networks /Encoder decoder 
 
 ### 📊 EDA :
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
