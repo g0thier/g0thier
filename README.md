@@ -21,7 +21,6 @@ Vous pouviez jusqu'à présent me croiser dans la cour devant le boot camp Jedha
 
 
 __🔮 Machine Learning supervisée :__
-
 <a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </a>
@@ -32,7 +31,6 @@ __🔮 Machine Learning supervisée :__
 * Adaboost / XGBoost / SMV 
 
 __🔮 Machine Learning non-supervisée :__
-
 <a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </a>
@@ -42,6 +40,16 @@ __🔮 Machine Learning non-supervisée :__
 * Natural Language Processing
 
 __🔮 Deep Learning (Tensorflow & Keras) :__
+<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</a>
+<a href="https://medium.com/@g0thier/apprendre-à-compter-les-cartes-sans-se-faire-virer-du-casino-252535e45c3b" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" />
+</a>
+<a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
+</a>
+
 * Convolutional Neural Network
 * Transfer Learning 
 * Gans 
