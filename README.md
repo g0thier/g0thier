@@ -50,13 +50,13 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 </a>
 </br></br>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-fbprophet-%233c5a96" alt="fbprophet">
+  <img align="center" src="https://img.shields.io/badge/fbprophet-%233c5a96" alt="fbprophet">
 </a>
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-TensorFlow_Hub-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow_hub" />
+  <img align="center" src="https://img.shields.io/badge/TensorFlow_Hub-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow_hub" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-OpenAI_Gym-0081A5?logo=openaigym&logoColor=fff&style=flat" alt="OpenAI Gym Badge">
+  <img align="center" src="https://img.shields.io/badge/OpenAI_Gym-0081A5?logo=openaigym&logoColor=fff&style=flat" alt="OpenAI Gym Badge">
 </a>
 <div></br></div>
 
@@ -80,22 +80,22 @@ __🚀 Deploiement :__
 </a>
 </br></br>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
+  <img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache_Airflow&logoColor=white" alt="Airflow"/>
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
+  <img align="center" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat" alt="MLflow Badge">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
+  <img align="center" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
+  <img align="center" src="https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=fff&style=flat" alt="Ray Badge">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
+  <img align="center" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Apache_Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Kafka">
+  <img align="center" src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Kafka">
 </a>
 <div></br></div>
 
@@ -120,7 +120,7 @@ __📊 Analyse Exploratoire des données (EDA) :__
   <img align="center" src="https://img.shields.io/badge/-Seaborn-blue" alt="Seaborn" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
+  <img align="center" src="https://img.shields.io/badge/Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
 </a>
 <div></br></div>
 
@@ -144,7 +144,7 @@ __📃 Collecte et management de données :__
 </a>
 </br>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-sqlalchemy-blueviolet" alt="SQLalchemy" />
+  <img align="center" src="https://img.shields.io/badge/sqlalchemy-blueviolet" alt="SQLalchemy" />
 </a>
 <div></br></div>
 
@@ -172,7 +172,7 @@ __📃 Collecte et management de données :__
 </a>
 </br>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-SQL-black?style=flat&logo=SQL" alt="SQL">
+  <img align="center" src="https://img.shields.io/badge/SQL-black?style=flat&logo=SQL" alt="SQL">
 </a>
 <div></br></div>
 
@@ -188,7 +188,7 @@ __📃 Collecte et management de données :__
 </a>
 </br>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
 </a>
 <div></br></div>
 
@@ -201,17 +201,17 @@ __📃 Collecte et management de données :__
 </a>
 </br>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img align="center" src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-PrestaShop-DF0067?logo=prestashop&logoColor=fff&style=flat" alt="PrestaShop Badge">
+  <img align="center" src="https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&logoColor=fff&style=flat" alt="PrestaShop Badge">
 </a>
 <div></br></div>
 
 ### 🚄 ETL :
-![DataBricks](https://img.shields.io/badge/🚧-Databricks-FF3621?style=flat&logo=Databricks&logoColor=white) 
-![Spark](https://img.shields.io/badge/🚧-Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)
-![PySpark](https://img.shields.io/badge/🚧-PySpark-32CD32?style=flat&logo=apachespark&logoColor=#E35A16)
+![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white) 
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)
+![PySpark](https://img.shields.io/badge/PySpark-32CD32?style=flat&logo=apachespark&logoColor=#E35A16)
 
 
 ### 🔧 Outils :
@@ -223,25 +223,25 @@ __📃 Collecte et management de données :__
 </a>
 </br>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-minikube-blue" alt="Minikube" />
+  <img align="center" src="https://img.shields.io/badge/minikube-blue" alt="Minikube" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-plural-826ee6" alt="plural.sh" />
+  <img align="center" src="https://img.shields.io/badge/plural-826ee6" alt="plural.sh" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Confluent-040730" alt="Confluent">
+  <img align="center" src="https://img.shields.io/badge/Confluent-040730" alt="Confluent">
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Zapier-FF4A00?logo=zapier&logoColor=fff&style=flat" alt="Zapier Badge" />
+  <img align="center" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=fff&style=flat" alt="Zapier Badge" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Neo4j-4581C3?logo=neo4j&logoColor=fff&style=flat" alt="Neo4j Badge" />
+  <img align="center" src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=fff&style=flat" alt="Neo4j Badge" />
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/🚧-Airbyte-615EFF?logo=airbyte&logoColor=fff&style=flat" alt="Airbyte Badge">
+  <img align="center" src="https://img.shields.io/badge/Airbyte-615EFF?logo=airbyte&logoColor=fff&style=flat" alt="Airbyte Badge">
 </a>
 <div></br></div>
 
