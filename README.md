@@ -18,20 +18,20 @@ __🔮 Machine Learning supervisée :__
 * Regression Linéaire (Classification Numérique) 
 * Ridge / Lasso / Grid Search Cross Validation / Random Forest 
 * Adaboost / XGBoost / SMV 
-
 <a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </a>
+<div></br></div>
 
 __🔮 Machine Learning non-supervisée :__
 
 * Clusterring Kmeans
 * Clusterring DBScan 
 * Natural Language Processing
-
 <a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </a>
+<div></br></div>
 
 __🔮 Deep Learning (Tensorflow & Keras) :__
 
@@ -39,7 +39,6 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 * Transfer Learning 
 * Gans 
 * Word Embedding /Recurrent Neural Networks /Encoder decoder 
-
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </a>
@@ -49,6 +48,7 @@ __🔮 Deep Learning (Tensorflow & Keras) :__
 <a href="https://github.com/g0thier/Bloc-4/blob/main/04_Deep_Prediction.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat" alt="spaCy Badge">
 </a>
+<div></br></div>
 
 __🔮 Machine Learning supervisée :__
 <a href="https://github.com/g0thier/Bloc-3/blob/main/01_Walmart/03_Lasso_Ridge_OLS.ipynb" target="_blank">
