@@ -119,6 +119,7 @@ __📊 Analyse Exploratoire des données (EDA) :__
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Plots.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Seaborn-blue" alt="Seaborn" />
 </a>
+</br>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
 </a>
