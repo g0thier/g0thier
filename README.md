@@ -110,6 +110,9 @@ __📊 Analyse Exploratoire des données (EDA) :__
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Pandas.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" alt="Numpy" />
 </a>
+<a href="https://github.com/g0thier/Bloc-6/blob/main/06_Imdb_Score_Model/03_Cleaning.ipynb" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
+</a>
 <a href="https://github.com/g0thier/Bloc-5/blob/main/02_EDA_pricing.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
 </a>
@@ -118,10 +121,6 @@ __📊 Analyse Exploratoire des données (EDA) :__
 </a>
 <a href="https://github.com/g0thier/Cours_Data/blob/main/Plots.ipynb" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Seaborn-blue" alt="Seaborn" />
-</a>
-</br>
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Dask-FDA061?logo=dask&logoColor=fff&style=flat" alt="Dask Badge">
 </a>
 <div></br></div>
 
