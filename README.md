@@ -245,7 +245,7 @@ __📃 Collecte et management de données :__
 </a>
 <div></br></div>
 
-# Certification Jedha : 
+# Blocs Jedha : 
 
 <a href="https://github.com/g0thier/Bloc-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-1&title_color=586e75&text_color=586e75&icon_color=008000" />
@@ -265,6 +265,11 @@ __📃 Collecte et management de données :__
 <a href="https://github.com/g0thier/Bloc-6">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g0thier&repo=Bloc-6&title_color=586e75&text_color=586e75&icon_color=008000" />
 </a>
+<div></br></div>
+
+# Certification Jedha : 
+
+<img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/60979167">
 <div></br></div>
 
 # Contact : 
