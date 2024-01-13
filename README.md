@@ -1,3 +1,38 @@
+# Data Scientist
+## <span style="color:MediumPurple">Data science developer, specializing in machine learning engineering.</span>
+### _Expert in data analysis and neural network models, responsible for creating data processing, extraction, and loading infrastructures to derive and predict strategic insights from raw data._
+
+* **ETL** Specialist with a penchant for major Cloud providers (**AWS, GCP, Azure**).\
+Extensive experience in statistical and predictive models (**machine learning**, deep learning, reinforcement learning).
+
+* Oversees the entirety of a data pipeline project. Collects data from various sources (**API**s, big data, scraping). Analyzes and processes data (visualization, **data mining**, A/B tests, EDA). Builds and maintains a data management infrastructure (SQL, NoSQL). Creates supervised, unsupervised, and deep learning models (CNN, GRU & LSTM, **NLP**, GAN). Deploys models (**Docker**, automated deployment, automated data flow scheduling and monitoring).
+
+* Key skills:
+  * Recommendation and client **advice** on best practices for **GDPR** compliance and the security of user information.
+  * Explores, cleans, and interprets complex datasets to extract **insights**.
+  * Advanced mastery of **Python** for developing statistical models and machine learning **algorithms**.
+  * Creates clear **visualizations** for effective communication of results to stakeholders.
+  * Proactively solves data-related challenges with creative and **analytical** approaches.
+  * Ability to **collaborate** in a team, communicate with non-specialists, and adapt to project evolutions.
+
+* Organizational and priority management skills, **analytical and synthesis aptitude**, attention to detail. Good interpersonal
+skills, listening abilities, and teaching aptitude. Performance, solution, and **results-oriented**.
+
+## Professional Experience
+### GPT Team Tech Lead (Volunteer)
+#### From 11/2023 to Present - 3 months - Dev Launchers, Austin, Texas, USA (Remote)
+
+<u>Objectives</u> \
+As a GPT Team Tech Lead at Dev Launchers, I lead a cross-functional team, collaborating with a developer, a UI/UX designer, and a product owner to conceptualize and develop a ChatBot dedicated to onboarding new community members. In this role, I steer the team through weekly briefings, leveraging my expertise in language models and artificial intelligence to guide our project. My responsibilities include preparing datasets for Avatar development and ensuring the successful implementation of a Virtual Assistant with a unique personality, well-versed in the roles of organization members and internal projects.
+
+<u>Key Contributions</u>
+
+* Conducted a thorough analysis of available Open Source Language Model (LLM) options and implemented procedures for fine-tuning and integration with Dev Launchers' resources.
+* Provided leadership and motivation to the team, fostering a collaborative and innovative working environment.
+* Led code reviews, ensuring code quality, and adhering to best development practices.
+* Identified and mitigated technical risks and challenges throughout the project lifecycle.
+* Aimed to create a Virtual Assistant capable of detecting code errors and assisting members in improving their coding skills.
+
 # Qui suis-je ?
 
 J'ai été [dessinateur de billets de banque](https://surys.com), de passeport, j'ai travaillé sur [la plus belle avenue du monde](https://www.pariselyseesclub.com), dans [les plus grands](https://www.clubpierrecharron.com/infos-pratiques/1ere-visite), les plus [somptueux casino Parisiens](https://www.hotelsbarriere.com/fr/paris/le-fouquets/activites/paris-club-barriere.html) avec les plus émérites employés de la capitale. Cependant, aujourd'hui c'est une autre passion qui m'anime et vient au devant de la scène : L'informatique, qui ne m'a jamais quitté. Quand j'étais [étudiant](https://www.linkedin.com/school/ecole-d'art-maryse-eloy/about/) c'est ce qui me permettait de donner vie à mes illustrations. Durant ma première carrière, c'est le code qui animait mes travaux nanoscopiques. Et pendant que je travaillais la nuit, [en secret](https://apps.apple.com/lu/developer/gauthier-rammault/id1493203805), en cachette, je n'ai cessé de coder durant toute la sainte journée. Enfin je me suis révélé au [printemps 2020](https://www.cned.fr/bts/bts-services-informatiques-aux-organisations-sio), pendant que la planète s'occupait à réaliser du pain, des crêpes et des pâtisseries ; j'ai trouvé plus alléchant d'aller m'encanailler dans un [petit laboratoire de recherche sur le cerveau](https://iscpif.fr/projects/linkrbrain/) pour me divertir. C'est là que m'est apparu mon avenir et où l'on m'a prédit que je deviendrai [data scientist](https://www.jedha.co/formations/formation-data-scientist).
