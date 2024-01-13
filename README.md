@@ -1,5 +1,5 @@
 # Data Scientist
-## <span style="color:MediumPurple">Data science developer, specializing in machine learning engineering.</span>
+## Data science developer, specializing in machine learning engineering.
 ### _Expert in data analysis and neural network models, responsible for creating data processing, extraction, and loading infrastructures to derive and predict strategic insights from raw data._
 
 * **ETL** Specialist with a penchant for major Cloud providers (**AWS, GCP, Azure**).\
@@ -19,19 +19,46 @@ Extensive experience in statistical and predictive models (**machine learning**,
 skills, listening abilities, and teaching aptitude. Performance, solution, and **results-oriented**.
 
 ## Professional Experience
-### GPT Team Tech Lead (Volunteer)
-#### From 11/2023 to Present - 3 months - Dev Launchers, Austin, Texas, USA (Remote)
+### GPT Team Tech Lead *(Volunteer)*
+#### From 11/2023 to Present - X months - [Dev Launchers](https://devlaunchers.org), Austin, Texas, USA (Remote)
 
-<u>Objectives</u> \
+***Objectives*** \
 As a GPT Team Tech Lead at Dev Launchers, I lead a cross-functional team, collaborating with a developer, a UI/UX designer, and a product owner to conceptualize and develop a ChatBot dedicated to onboarding new community members. In this role, I steer the team through weekly briefings, leveraging my expertise in language models and artificial intelligence to guide our project. My responsibilities include preparing datasets for Avatar development and ensuring the successful implementation of a Virtual Assistant with a unique personality, well-versed in the roles of organization members and internal projects.
 
-<u>Key Contributions</u>
-
+***Key Contributions***
 * Conducted a thorough analysis of available Open Source Language Model (LLM) options and implemented procedures for fine-tuning and integration with Dev Launchers' resources.
 * Provided leadership and motivation to the team, fostering a collaborative and innovative working environment.
 * Led code reviews, ensuring code quality, and adhering to best development practices.
 * Identified and mitigated technical risks and challenges throughout the project lifecycle.
 * Aimed to create a Virtual Assistant capable of detecting code errors and assisting members in improving their coding skills.
+
+### Data Scientist
+#### From 11/2022 to 01/2024 - 1 year and 3 months - [Jump](https://www.join-jump.com/business), Paris, France
+##### Data Science projects for small and medium-sized businesses.
+
+***Objectives***
+* Merged and aggregated databases.
+* Imported data from diverse sources through scraping and API usage.
+* Collected datasets.
+* Extracted, statistically analyzed, and visualized data.
+* Designed web applications for showcasing information.
+* Developed Machine Learning models.
+* Gathered requirements, negotiated, and established technical specifications.
+* Implemented Docker containers and set up Ubuntu virtual machines.
+
+***Public Outcomes***
+* [Horysons]() : CloudFlare security bypass, data acquisition, Machine Learning consulting.
+* [Dans Ma Bouteille]() : Cleaning, transcription, and adaptation of external databases.
+* [Fractionnal IP]() : Extraction and statistical analysis of UK trademark data.
+* [Metaview]() : Designing an API incorporating Movenet and Mediapipe model.
+
+### Teacher Assistant Data Science
+#### From 12/2022 to 09/2023 - 10 months - [Jedha](https://www.jedha.co), Paris, France
+#### Taught Data Analysis / Data Science / Data Engineering.
+
+***Guided around twenty students in data-related subjects.*** Supervised module: Data Essentials.
+
+
 
 # Qui suis-je ?
 
