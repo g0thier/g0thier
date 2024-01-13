@@ -47,18 +47,48 @@ As a GPT Team Tech Lead at Dev Launchers, I lead a cross-functional team, collab
 * Implemented Docker containers and set up Ubuntu virtual machines.
 
 ***Public Outcomes***
-* [Horysons]() : CloudFlare security bypass, data acquisition, Machine Learning consulting.
-* [Dans Ma Bouteille]() : Cleaning, transcription, and adaptation of external databases.
-* [Fractionnal IP]() : Extraction and statistical analysis of UK trademark data.
-* [Metaview]() : Designing an API incorporating Movenet and Mediapipe model.
+* [Horysons](https://www.horysons.fr) : CloudFlare security bypass, data acquisition, Machine Learning consulting.
+* [Dans Ma Bouteille](https://www.dansmabouteille.com) : Cleaning, transcription, and adaptation of external databases.
+* [Fractionnal IP](https://www.fractionalip.com) : Extraction and statistical analysis of UK trademark data.
+* [Metaview](https://www.metaview.tech) : Designing an API incorporating Movenet and Mediapipe model.
 
 ### Teacher Assistant Data Science
 #### From 12/2022 to 09/2023 - 10 months - [Jedha](https://www.jedha.co), Paris, France
-#### Taught Data Analysis / Data Science / Data Engineering.
-
+##### Taught Data Analysis / Data Science / Data Engineering.
 ***Guided around twenty students in data-related subjects.*** Supervised module: Data Essentials.
 
+### Croupier
+#### From 04/2018 to 11/2022 - 4 years and 8 months - [Club Pierre Charron](https://www.clubpierrecharron.com), Paris, France
+##### Gaming club (Casino) - Events - 25 tables, 350 clients per evening.
+Welcomed guests. Managed Poker floor, monitored tables, and served as croupier for traditional games.
 
+### Holographic Infographic Designer
+#### From 08/2017 to 12/2017 - 6 months - [SURYS](https://surys.com/fr/) [(National Printing House)](https://ingroupe.com/fr/), Bussy-Saint-Georges, France
+##### Security-focused design - Fiduciary and identity document design.
+Designed fiduciary and identity documents, brand seals, and conceptualized Motion Design.
+
+### Graphic Designer
+#### From 12/2016 to 07/2017 - 8 months - Freelance, Paris, France
+##### Created communications for small and medium-sized businesses.
+Designed and executed graphics for both print and digital media.
+
+
+## Education
+
+### Diploma in Data Science Design and Development
+#### Graduated on 10/2022 - Jedha School, Paris
+##### Bootcamp covering Data Essentials, Fullstack, and Lead roles.
+
+***Objectives*** \
+Building and maintaining a data management infrastructure. Exploratory and descriptive analysis of data. Predictive analysis of structured and unstructured data using artificial intelligence. Industrialization of a machine learning algorithm and automation of decision-making processes.
+
+***Achievements***
+* [Booking](https://github.com/g0thier/Bloc-1): Implemented a data extraction and storage pipeline on S3.
+* [Speed Dating](https://github.com/g0thier/Bloc-2): Conducted quantitative and qualitative studies on a sample population.
+* [Predictive Marketing](https://github.com/g0thier/Bloc-3): Predicted sales, conversion rates, and customer clustering.
+* [Review Classification](https://github.com/g0thier/Bloc-4): Utilized Natural Language Processing (NLP) for automated sentiment analysis.
+* [Get Around](https://github.com/g0thier/Bloc-5): Developed a predictive dashboard and API for Marketing.
+* [IMDb Score Predict](https://github.com/g0thier/Bloc-6): Managed data management projects.
 
 # Qui suis-je ?
 
