@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="width: 100px; text-align: center; vertical-align: middle;">
+    <td style="width: 50px; text-align: center; vertical-align: middle;">
       <img src="src/open-to-work.svg" alt="Open to Work Badge">
     </td>
     <td style="">
