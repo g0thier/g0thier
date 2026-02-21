@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="width: 50px; text-align: center; vertical-align: middle;">
-      <img src="src/open-to-work.svg" alt="Open to Work Badge">
+      <img src="src/open-to-work.svg" alt="Open to Work Badge" style="width: 50px; height: 50px;">
     </td>
     <td style="">
       <h3>Spécialiste IA & Data</h3>    
