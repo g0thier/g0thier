@@ -1,0 +1,23 @@
+name: GitHub profile summary cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # tous les 12 heures
+  workflow_dispatch:         # avec un bouton “Run workflow” 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          EXCLUDE: ""
+          AUTO_PUSH: true
